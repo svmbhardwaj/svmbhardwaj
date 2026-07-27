@@ -118,7 +118,7 @@ const shivam: Developer = {
 
 | | |
 |:---:|:---|
-| 🥇 | **Top 10 Finalist** — Industrial Ideathon 2025 (100+ teams) |
+| 🥇 | **Top 10 Finalist** — Industrial Ideathon 2025 (700+ teams) |
 | 🤖 | **Semi-Finalist** — ET GenAI Hackathon (60,000+ registrants) |
 | 🎯 | **Top 50** in two separate national-level hackathons |
 | ⚡ | **20+ national hackathons** — shipping end-to-end in 24–48hr sprints |
