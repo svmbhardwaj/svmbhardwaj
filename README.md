@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20svmbhardwaj.vercel.app-6366F1?style=for-the-badge&logoColor=white)](https://svmbhardwaj.vercel.app)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-6366F1?style=for-the-badge&logoColor=white)](https://svmbhardwaj.dev)
 [![GitHub followers](https://img.shields.io/github/followers/svmbhardwaj?style=for-the-badge&logo=github&color=06B6D4&labelColor=0D1117)](https://github.com/svmbhardwaj)
 [![Profile Views](https://komarev.com/ghpvc/?username=svmbhardwaj&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS)](https://github.com/svmbhardwaj)
 
@@ -135,7 +135,7 @@ const shivam: Developer = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/svmbhardwaj)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svmbhardwaj0@gmail.com)
-[![Portfolio](https://img.shields.io/badge/svmbhardwaj.vercel.app-%236366F1.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://svmbhardwaj.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%236366F1.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://svmbhardwaj.dev)
 
 *"Ship fast. Learn faster."*
 
