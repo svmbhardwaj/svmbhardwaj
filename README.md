@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Shivam%20Bhardwaj&fontSize=50&color=0:6366F1,100:06B6D4&stroke=ffffff&strokeWidth=2&fontColor=ffffff&animation=fadeIn&desc=svmbhardwaj%20%E2%80%94%20Backend-first%2C%20AI-curious%2C%20always%20shipping&descSize=16&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Shivam%20Bhardwaj&fontSize=50&color=0:6366F1,100:06B6D4&stroke=ffffff&strokeWidth=2&fontColor=ffffff&animation=fadeIn&desc=svmbhardwaj%20—%20Backend-first,%20AI-curious,%20always%20shipping&descSize=16&descAlignY=75" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=Backend+%26+Full-Stack+Engineer+%F0%9F%9A%80;Agentic+Systems+%26+GenAI+Tinkerer+%E2%9A%A1;Mentored+30%2B+Students+%40+Namespace+BPIT+%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB;Using+AI+to+Learn%2C+Build+and+Ship+fast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=Backend+%26+Full-Stack+Engineer+🚀;Agentic+Systems+%26+GenAI+Tinkerer+⚡;Mentored+30%2B+Students+%40+Namespace+BPIT+🧑‍🏫;Using+AI+to+Learn,+Build+and+Ship+fast)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-6366F1?style=for-the-badge&logoColor=white)](https://svmbhardwaj.dev)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-6366F1?style=for-the-badge&logoColor=white)](https://svmbhardwaj.dev)
 [![GitHub followers](https://img.shields.io/github/followers/svmbhardwaj?style=for-the-badge&logo=github&color=06B6D4&labelColor=0D1117)](https://github.com/svmbhardwaj)
 [![Profile Views](https://komarev.com/ghpvc/?username=svmbhardwaj&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS)](https://github.com/svmbhardwaj)
 
@@ -22,15 +22,15 @@
 
 ```typescript
 const shivam: Developer = {
-  alias        : "svmbhardwaj",
-  location     : "Delhi, India",
-  education    : "B.Tech ECE @ GGSIPU Delhi (2024–2028)",
-  stack        : "Full-Stack Development",
-  focus        : ["GenAI", "Agentic Systems", "Backend Scalability"],
-  mentored     : "30+ students @ Namespace BPIT",
-  hackathons   : "20+ national-level, shipped in 24–48hr sprints",
-  motto        : "Using AI to learn, build, and ship fast.",
-  available    : true,
+  alias: "svmbhardwaj",
+  location: "Delhi, India",
+  education: "B.Tech ECE @ GGSIPU Delhi (2024–2028)",
+  stack: "Full-Stack Development",
+  focus: ["GenAI", "Agentic Systems", "Backend Scalability"],
+  mentored: "30+ students @ Namespace BPIT",
+  hackathons: "20+ national-level, shipped in 24–48hr sprints",
+  motto: "Using AI to learn, build, and ship fast.",
+  available: true,
 } as const;
 ```
 
@@ -73,13 +73,13 @@ const shivam: Developer = {
 
 <div align="center">
 
-| &nbsp; | Project | Description | Stack |
+| Status | Project | Description | Stack |
 |:---:|:---|:---|:---:|
-| <img src="https://img.shields.io/badge/-ACTIVE-ff4757?style=flat-square&logoColor=white"/> | [**HireGenie**](https://github.com/svmbhardwaj/HireGenie) | AI career assistant — resume analysis, personalized interview prep, mock interviews & feedback | ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white) |
-| <img src="https://img.shields.io/badge/-NEW-06B6D4?style=flat-square&logoColor=white"/> | [**API-SurgeProtector**](https://github.com/svmbhardwaj/api-surgeprotector) | Distributed rate-limiting gateway protecting backend services from request surges — dynamic identifier-based limits, distributed caching, fail-open HA design | ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white) |
-| | [**CLARIX**](https://github.com/ParthGupta1304/CLARIX) *(Team)* | AI-integrated backend with pgvector semantic search | ![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| | [**SkillShare**](https://github.com/svmbhardwaj/Skill-Share) | Local services marketplace with listings, search & full auth | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| | [**BhardwajDeco**](https://github.com/svmbhardwaj/BhardwajDeco) | Full stack e-commerce with JWT auth & Cloudinary media | ![Mongo](https://img.shields.io/badge/Mongo-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| <img src="https://img.shields.io/badge/-ACTIVE-ff4757?style=flat-square&logoColor=white"/> | **[HireGenie](https://github.com/svmbhardwaj/HireGenie)** | AI career assistant — resume analysis, personalized interview prep, mock interviews & feedback | ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white) |
+| <img src="https://img.shields.io/badge/-NEW-06B6D4?style=flat-square&logoColor=white"/> | **[API-SurgeProtector](https://github.com/svmbhardwaj/api-surgeprotector)** | Distributed rate-limiting gateway protecting backend services from request surges — dynamic identifier-based limits, distributed caching, fail-open HA design | ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white) |
+| | **[CLARIX](https://github.com/ParthGupta1304/CLARIX)** *(Team)* | AI-integrated backend with pgvector semantic search | ![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| | **[SkillShare](https://github.com/svmbhardwaj/Skill-Share)** | Local services marketplace with listings, search & full auth | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| | **[BhardwajDeco](https://github.com/svmbhardwaj/BhardwajDeco)** | Full stack e-commerce with JWT auth & Cloudinary media | ![Mongo](https://img.shields.io/badge/Mongo-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 
 </div>
 
@@ -104,7 +104,7 @@ const shivam: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=svmbhardwaj&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=06B6D4&point=ffffff" />
+<img src="https://raw.githubusercontent.com/svmbhardwaj/svmbhardwaj/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
